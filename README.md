@@ -12,7 +12,9 @@ A simple and stylish Flutter app that includes a **Counter App** and a **To-Do L
 ### ✅ To-Do List App  
 - Add and remove tasks.  
 - Display tasks in a `ListView`.  
-- Save tasks persistently using `SharedPreferences`.  
+- Save tasks persistently using `SharedPreferences`.
+
+    ![image alt](https://github.com/Rehana5-tech/flutter-counter-todolost-app/blob/148fffb27a1118352e5f55defd5ecddec50bba49/Screenshot%202025-03-27%20203457.png)
 
 ## 📸 UI Design  
 Inspired by a modern, stylish UI with rounded cards, soft shadows, and smooth animations.  
