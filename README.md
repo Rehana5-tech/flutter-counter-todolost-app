@@ -6,7 +6,8 @@ A simple and stylish Flutter app that includes a **Counter App** and a **To-Do L
 
 ### ✅ Counter App  
 - Increase or decrease the counter value.  
-- Save the counter value on app restart.  
+- Save the counter value on app restart.
+![image alt](https://github.com/Rehana5-tech/flutter-counter-todolost-app/blob/a844175af608eaa681c1cf3fe38f7ea3001a372a/Screenshot%202025-03-27%20201131.png)
 
 ### ✅ To-Do List App  
 - Add and remove tasks.  
